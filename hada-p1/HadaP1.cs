@@ -12,7 +12,7 @@ namespace hada_p1
     /// segundos a minutos y viceversa
     /// </summary>
     class HadaP1
-    {
+    { 
         public static double Seconds2Minutes(double s)
         {
             if (s == 0)
@@ -34,6 +34,17 @@ namespace hada_p1
             else
             {
                 return 60 * m;
+            }
+        }
+        public static double Hours2minutes(double h)
+        {
+            if (h == 0)
+            {
+                return 0;
+            }
+            else
+            {
+                return h * 60;
             }
         }
     }
