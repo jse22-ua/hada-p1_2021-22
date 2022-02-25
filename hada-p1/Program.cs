@@ -33,7 +33,6 @@ namespace hada_p1
                         Console.WriteLine(HadaP1.Minutes2Seconds(double.Parse(cantidad)));
                         break;
                     case "Horas":
-                    case "horas":
                         Console.WriteLine($"Introduzca la cantidad de {unidad} que quieres convertir");
                         cantidad = Console.ReadLine();
                         Console.WriteLine(HadaP1.Hours2minutes(double.Parse(cantidad)));
