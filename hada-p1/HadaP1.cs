@@ -36,7 +36,7 @@ namespace hada_p1
                 return 60 * m;
             }
         }
-        public static double Hours2minutes(double h)
+        public static double Hours2minutes(double h)//convierte hora en minutos
         {
             if (h == 0)
             {
