@@ -1,0 +1,13 @@
+Package: piedrapapeltijera-dbgsym
+Package-Type: ddeb
+Source: piedrapapeltijera
+Version: 1.0-1
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: judit <mail@provider.com>
+Installed-Size: 18
+Depends: piedrapapeltijera (= 1.0-1)
+Section: debug
+Priority: optional
+Description: debug symbols for piedrapapeltijera
+Build-Ids: bddc842c942da472f9ae4892ef95a32ad171d216

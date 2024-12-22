@@ -1,0 +1,78 @@
+# Catalan translation for rock paper scissors
+# Copyright (C) 2024 empresa COPYRIGHT HOLDER
+# This file is distributed under the same license as the rock paper scissors package.
+# Judit Serrano Espinosa <jse22@alu.ua.es>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: rock paper scissors 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-12-12 17:19+0100\n"
+"PO-Revision-Date: 2024-12-12 16:32+0100\n"
+"Last-Translator: Judit Serrano Espinosa <jse22@alu.ua.es>\n"
+"Language-Team: Catalan\n"
+"Language: ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: i18n_ejemplo.py:18
+msgid "La máquina eligió piedra"
+msgstr "La màquina ha triat pedra"
+
+#: i18n_ejemplo.py:20
+msgid "La máquina eligió papel"
+msgstr "La màquina ha triat paper"
+
+#: i18n_ejemplo.py:22
+msgid "La máquina eligió tijera"
+msgstr "La màquina ha triat tisores"
+
+#: i18n_ejemplo.py:26
+msgid "¿Piedra, papel o tijera?"
+msgstr "Pedra, paper o tisores?"
+
+#: i18n_ejemplo.py:27
+msgid "1. Piedra"
+msgstr "1. Pedra"
+
+#: i18n_ejemplo.py:28
+msgid "2. Papel"
+msgstr "2. Paper"
+
+#: i18n_ejemplo.py:29
+msgid "3. Tijera"
+msgstr "3. Tisores"
+
+#: i18n_ejemplo.py:31
+msgid "Elige una opción: "
+msgstr "Tria una opció: "
+
+#: i18n_ejemplo.py:33
+msgid "Elegiste piedra"
+msgstr "Has triat pedra"
+
+#: i18n_ejemplo.py:35
+msgid "Elegiste papel"
+msgstr "Has triat paper"
+
+#: i18n_ejemplo.py:37
+msgid "Elegiste tijera"
+msgstr "Has triat tisores"
+
+#: i18n_ejemplo.py:39
+msgid "Opción inválida. Por favor, intente de nuevo."
+msgstr "Opción invàlida. Per favor, prova altra vegada"
+
+#: i18n_ejemplo.py:51
+msgid "¡Empate!"
+msgstr "Empat!"
+
+#: i18n_ejemplo.py:53 i18n_ejemplo.py:55 i18n_ejemplo.py:57
+msgid "¡Ganaste!"
+msgstr "Has guanyat!"
+
+#: i18n_ejemplo.py:59
+msgid "¡Perdiste!"
+msgstr "Has perdut!"
