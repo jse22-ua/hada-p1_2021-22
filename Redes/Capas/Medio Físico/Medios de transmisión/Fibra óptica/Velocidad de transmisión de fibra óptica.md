@@ -1,0 +1,11 @@
+La velocidad de la fibra óptica estará determinada por:
+- La codificación de bits en pulsos luminosos
+	- por ejemplo: Codificación bipolar
+		-  codificará tres niveles de potencia de luminosidad 
+			- utilizando transiciones diferentes para 0 y 1
+			- ![[Pasted image 20230627160922.png]]
+- La frecuencia máxima para los pulsos que permite la fibra
+	- estará limitada por la dispersión intermodal
+		- en el monomodo la dispersión intermodal es nula 
+			- Mayores frecuencias y mayor velocidad
+	- ![[Pasted image 20230627161142.png]]

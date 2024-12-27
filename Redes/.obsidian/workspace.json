@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "3b40b6b5c2694bb8",
+    "type": "split",
+    "children": [
+      {
+        "id": "9cd1c40942b2b1d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7256b9486948a55",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e666086dd1b2d28b",
+    "type": "split",
+    "children": [
+      {
+        "id": "78e68a8025256d4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1c60c9733ccbac1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "98c552f22d80455b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "e72b6cfb4a40d106",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "435abea2c3da12aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "be96e7e59692a4d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b4b88733aa1cb83",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Introducción/Redes punto a punto.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Redes punto a punto"
+            }
+          },
+          {
+            "id": "1f5bf86ffde18706",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Introducción/Redes punto a punto.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Redes punto a punto"
+            }
+          },
+          {
+            "id": "a216fbb7fe28d13b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "983e7b8c2c363cd8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Introducción/Redes punto a punto.md"
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Redes punto a punto"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Crear nuevo lienzo": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "a1c60c9733ccbac1",
+  "lastOpenFiles": [
+    "Modelo de capas.md",
+    "Modelo de capas de TCP_IP.md",
+    "Introducción/Redes punto a punto.md",
+    "Capas/Capa de enlace/Protocolos/IEEE 802.3 Ethernet/Puentes/Puentes.md",
+    "Capas/Capa de enlace/Protocolos/IEEE 802.3 Ethernet/CSMA_CD.md",
+    "Capas/Capa de enlace/Protocolos/IEEE 802.3 Ethernet/10BaseT.md",
+    "Capas/Capa de enlace/Protocolos/IEEE 802.3 Ethernet/IEEE 802.3 Ethernet(CSMA_CD).md",
+    "Capas/Capa de enlace/Protocolos/Redes Lan. Normas IEEE 802.x/Normas IEEE 802.x.md",
+    "Capas/Capa de enlace/Protocolos/IEEE 802.3 Ethernet/Repetidores.md",
+    "Capas/Capa de enlace/Protocolos/IEEE 802.2 Protocolo de Control del enlace Lógico(LLC).md",
+    "Capas/Capa de enlace/Tipos de servicios ofrecidos al nivel superior (nivel de red).md",
+    "Capas/Capa de enlace/Capa de enlace.md",
+    "Capas/Capa de enlace/Control de flujo/Protocolos de ventana deslizante.md",
+    "Capas/Capa de enlace/Control de flujo/Protocolos de parada y espera.md",
+    "Capas/Capa de enlace/Control de flujo/Control del flujo.md",
+    "Capas/Capa de enlace/Protocolos/IEEE 802.3 Ethernet/Puentes/Puentes Transparentes.md",
+    "Capas/Capa de enlace/Protocolos/IEEE 802.3 Ethernet/Puentes/Modo de reenvío.md",
+    "Capas/Capa de enlace/Protocolos/IEEE 802.3 Ethernet/Puentes/Modo de aprendizaje.md",
+    "Capas/Capa de enlace/Protocolos/IEEE 802.3 Ethernet/Puentes/Algoritmo de árbol de expansión (Algoritmo Spanning Tree).md",
+    "Capas/Capa de enlace/Protocolos/IEEE 802.3 Ethernet/Ethernet Conmutada.md",
+    "Capas/Capa de enlace/Detección de errores/Control de errores.md",
+    "Capas/Capa de enlace/Funciones del nivel de enlace.md",
+    "Capas/Capa de enlace/Delimitación de tramas (o paquetes).md",
+    "Capas/Capa de enlace/Direccionamiento.md",
+    "Capas/Capa de enlace/Detección de errores/Detección de errores por (CRC) Código de redundancia Cíclica.md",
+    "Capas/Capa de enlace/Detección de errores/Detección de errores por paridad de bits.md",
+    "Imagens/Pasted image 20230630090633.png",
+    "Imagens/Pasted image 20230630090258.png",
+    "Capas/Capa de enlace/Protocolos/IEEE 802.3 Ethernet/Puentes",
+    "Imagens/Pasted image 20230629200356.png",
+    "Imagens/Pasted image 20230629195720.png",
+    "Capas/Capa de enlace/Protocolos/IEEE 802.3 Ethernet",
+    "Imagens/Pasted image 20230629171034.png",
+    "Imagens/Pasted image 20230629170226.png",
+    "IEEE 802.3 Ethernet(CSMA",
+    "Imagens/Pasted image 20230629161954.png",
+    "Untitled.canvas",
+    "Imagens/Pasted image 20230629160334.png",
+    "Imagens/Pasted image 20230629155817.png",
+    "Imagens/Pasted image 20230629155734.png",
+    "Capas/Capa de enlace/Protocolos/Redes Lan. Normas IEEE 802.x",
+    "Capas/Capa de enlace/Protocolos",
+    "Capas/Capa de enlace/Control de flujo",
+    "Capas/Capa de enlace/Detección de errores",
+    "Capas/Capa de enlace",
+    "Capas/Medio Físico/Ondas Electromagnéticas",
+    "Capas/Medio Físico/Medios de transmisión/Fibra óptica",
+    "Untitled 1.canvas"
+  ]
+}
