@@ -1,0 +1,11 @@
+- Propuesta por Harlan Mills en 1972
+- También conocida como estructura de equipo quirúrgico
+- Personal:
+	- Programador o ingeniero jefe
+		- Planifica, coordina y revisa todas las actividades técnicas
+	- Personal técnico
+		- Lleva a cabo las tareas de análisis y desarrollo
+	- Ingeniero de apoyo
+		- Ayuda al ing. jefe y puede sustituirle sin perdida de continuidad del proyecto
+- Especialistas que ayudan al ing. jefe (BD, comunicaciones, etc.)
+- Un bibliotecario SW `librarian` cataloga e indexa módulos o objetos reutilizables.

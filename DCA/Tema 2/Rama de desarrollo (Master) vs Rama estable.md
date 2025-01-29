@@ -1,0 +1,7 @@
+- Una vez publicada la nueva versión del producto se constituye la #Rama_estable 
+	- por ejemplo, v1.0.0
+- El coordinador de la rama #master recibe propuestas que no están en v1.0.0. 
+	- Por lo que, las va añadiendo en la nueva rama #master o #trunk  
+- Al mismo tiempo se van recogiendo avisos de fallos de la rama #estable (v1.0.0)
+- El coordinador de la rama #estable publica una versión con los fallos corregidos v1.0.1
+- Estos fallos se corrigen en la rama #master si estaban en ella

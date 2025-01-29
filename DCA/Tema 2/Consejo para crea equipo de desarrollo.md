@@ -1,0 +1,12 @@
+- No dejar pequeños detalles sin arreglar porque nadie quiere hacerlo
+- Si alguna parte del equipo empieza a funcionar mal probablemente lo acabará haciendo todo el equipo
+- Debe haber comunicación fluida, confiable y estructurada
+- Aunque haya diferentes subequipos 
+	- Todos deben comunicarse de la misma manera
+- Evitar repeticiones o duplicados
+- No se llevan aisladamente las Fases:  
+	- análisis
+	- diseño
+	- codificación
+	- testeo
+- Automatiza todas las acciones posibles

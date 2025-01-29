@@ -1,0 +1,4 @@
+- Tiene jefe de equipo
+	- Soluciona problemas de alto nivel
+	- Coordina equipos internos
+	- Comunicación vertical con los individuos

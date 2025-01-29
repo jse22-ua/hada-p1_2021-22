@@ -1,0 +1,6 @@
+- No hay jefe
+- Nombran coordinadores de tareas a corto plazo
+- Las decisiones se toman en conjunto
+- La comunicación entre los miembros del equipo es horizontal.
+	- Es decir, la comunicación es directa y no pasa por ninguna jerarquía estricta
+		- Si quiero hablar con el jefe de proyecto, ==no== tengo que hablar con un supervisor para luego que hable con el jefe.

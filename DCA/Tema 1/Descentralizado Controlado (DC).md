@@ -1,0 +1,8 @@
+- Tiene jefe
+	- Coordina 
+		- las tareas
+		- jefes secundarios que tienen responsabilidades sobre las subtareas
+- La solución de los problemas es una actividad del grupo
+	- El jefe de equipo reparten los problemas entre los subgrupos 
+- La comunicación entre los subgrupos e individuos es horizontal 
+- Comunicación vertical a lo largo de la jerarquía.
