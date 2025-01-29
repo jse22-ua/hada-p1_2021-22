@@ -1,0 +1,8 @@
+- 12 items
+- 5 dimensiones 
+	- content
+	- accuracy
+	- format
+	- ease of use
+	- timeliness
+- 5 puntos por item

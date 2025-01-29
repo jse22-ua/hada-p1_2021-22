@@ -1,0 +1,6 @@
+- 30 items
+- 4 categorias
+	- utilidad 
+	- satisfacción
+	- facilidad de uso
+	- facilidad de aprendizaje

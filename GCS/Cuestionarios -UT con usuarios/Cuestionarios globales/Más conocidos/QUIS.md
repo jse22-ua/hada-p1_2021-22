@@ -1,0 +1,7 @@
+- 27 sentencias
+- 5 categorías 
+	- rección general
+	- pantalla 
+	- terminología/info sistema
+	- Aprendizaje
+	- Capacidades del Sistema

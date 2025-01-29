@@ -1,0 +1,10 @@
+- Una sola medida sobre la lealtad del usuario
+- Una sola pregunta
+- mide el impacto de negocio de la UX
+- Tres segmentos
+	- promotores: respuestas de 9 a 10
+	- pasivos: respuestas de 7 a 8
+	- detractores:  Respuestas de 0 a 6
+- NPS (-100...100): 
+	- %promotores - %detractores
+- predice aumento de ventas

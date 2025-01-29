@@ -1,0 +1,3 @@
+- post study
+- variacion de CSUQ
+- administrado en persona

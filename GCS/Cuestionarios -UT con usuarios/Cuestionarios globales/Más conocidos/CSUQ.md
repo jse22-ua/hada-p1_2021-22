@@ -1,0 +1,8 @@
+- 19 frases
+	- todas positivas 
+	- 4 dimensiones
+		- utilizadad del sistema
+		- calidad de la info
+		- calidad de interfaz 
+		- satisfacción general
+	- pensado para ser administrado off-line
