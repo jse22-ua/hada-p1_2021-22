@@ -1,0 +1,1 @@
+![[t1_acceso_simultaneo 1.png]]

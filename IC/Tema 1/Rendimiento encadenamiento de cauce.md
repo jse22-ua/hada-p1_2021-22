@@ -1,0 +1,1 @@
+![[t1_encadenamiento.png]]
