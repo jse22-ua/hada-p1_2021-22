@@ -1,0 +1,1 @@
+Wikipedia utilizó la fotografía argumentando que el autor era el mono (Naruto). Wikipedia perdió 

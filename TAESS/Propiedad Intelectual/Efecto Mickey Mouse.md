@@ -1,0 +1,1 @@
+Le han aplazado dos veces los años la propiedad intelectual. Ahora es de dominio público la primera versión 
