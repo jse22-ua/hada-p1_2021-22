@@ -1,0 +1,15 @@
+- [[DES]] (y [[Tiple DES]]) 1977
+- [[AES]] 2001
+	- Estándar actual 
+	- Más utilizado 
+- IDEA 1991
+	- Estándar internacional poco famoso
+- RC5 1994 / RC6 1998 
+	- Algoritmo de Rivest
+	- Cifradores en bloque 
+	- [[RC4]] no -> cifrador en flujo
+	- no tiene uso 
+- Blowfish 1993 / Twofish 1998
+	- Algoritmo de Schneier
+	- se usa en SW libre
+	- base de bcrypt

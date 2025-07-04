@@ -1,0 +1,44 @@
+- MD2 
+	- 128 bits
+	- para procesadores de 8 bits
+	- no recomendable
+		- lentitud 
+		- poca seguridad
+- MD4
+	- 128 bits
+	- roto por el creador de RIPEMD160
+- MD5
+	- 128 bits
+	- mejora de MD4
+	- el que rompió MD4 encontró colisiones
+	- se ha roto por preimagen
+- RIPEMD160
+	- 160 bits
+	- No está roto pero el resumen es corto
+- SHA-1
+	- Por la NSA
+	- 160 bits
+	- mejora de MD4 
+	- roto en 2011
+	- popular ~
+- SHA-2
+	- por la NSA
+	- 256 o 224 bits 
+	- 512 o 384 bits
+	- mejora de SHA-1
+	- SHA-512 está optimizado para arquitecturas de 64 bits
+	- Casi un ataque que hace dudar su seguridad en el futuro
+- Otros
+	- blake 
+	- grostl
+	- jh
+	- skein 
+	- Otros no muy utiles
+		- MD6
+		- CubeHash
+	- Tangle
+		- única función española
+		- Colisiones en primera ronda 
+		- S-Box AES
+		- expansión por [[Generadores pseudoaleatorios (PRNG)]]
+		- Función de ronda variable
