@@ -1,0 +1,1 @@
+Que hace selenium manage? Se encarga de que el tester no tenga que preocuparse de que la versión del navegador sea compatible con los drivers de webdriver y no tiene que preocuparse por descargarlos
